@@ -1,6 +1,7 @@
 # Date-Parser
 Java program to parse any input text and extract every date it contains and count the dates. A date has to be precise, including a day, a month and a year.
-#Sample text
+
+# Sample text
 Marvin Lee Minsky at the Mathematics Genealogy Project; 20 May 2014
 
 Marvin Lee Minsky at the AI Genealogy Project. {reprint 18 September 2011)
